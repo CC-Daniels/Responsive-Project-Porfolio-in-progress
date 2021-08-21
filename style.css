@@ -95,9 +95,11 @@ p {
     font-size: 33px;
     text-align: center;
   }
-
+  P {
+    text-align: center;
+  }
   .project-link {
     display: block;
-    margin: 0 20px;
+    margin: 0 auto;
   }
 }
