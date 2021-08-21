@@ -92,6 +92,10 @@ p {
     font-size: 48px;
   }
   h2 {
-    font-size: 33px ;
+    font-size: 33px;
+    text-align: center;
+  }
+  P {
+    text-align: center;
   }
 }
