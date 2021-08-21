@@ -98,12 +98,12 @@ p {
   P {
     text-align: center;
   }
-  .primary-link {
+  .project-link {
     display: block;
     text-align: center;
     margin: 0 20px;
   }
-  .primary-link:hover {
+  .project-link:hover {
     color: white;
   }
 }
